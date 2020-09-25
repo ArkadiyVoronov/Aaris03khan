@@ -10,7 +10,6 @@
 
 <h4>- About me</h4>
 
-- 👨‍💼 I'm currently a Android App Developer Intern at [Ourfood].
 - 👨‍💻 I'm currently learning [React Native].
 - 😎 Gaming, Digital Designing, and Binge watching is my kind of relaxation.
 
@@ -45,7 +44,6 @@
 <a href="http://aaris.tech"><img align="center" alt="aaris.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Aaris18668707?s=09"><img align="center" alt="Aaris03khan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aaris-khan-845143185/"><img align="center" alt="Aaris Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/aaris03khan/"><img align="center" alt="aaris03khan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 [website]: https://simpleicons.org/icons/linkedin.svg
-[Ourfood]: http://ourfood.co.in/
 [React Native]: https://reactnative.dev/
 [linkedin]: https://linkedin.com
 [instagram]: https://simpleicons.org/icons/instagram.svg
